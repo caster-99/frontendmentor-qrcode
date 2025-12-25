@@ -8,7 +8,7 @@ function App() {
       <div class="attribution">
         Inspired by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noreferrer">Frontend Mentor</a> challenge.
         <br />
-        Coded by <a href="https://github.com/luisamlopez">Luisa López</a>.
+        Coded by <a href="https://github.com/caster-99">Luisa López</a>.
       </div>
     </div>
   );
